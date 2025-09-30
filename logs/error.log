@@ -1,0 +1,14 @@
+[Mon Sep 29 13:45:26.669462 2025] [mpm_winnt:notice] [pid 22644:tid 444] AH00455: Apache/2.4.65 (Win64) OpenSSL/3.0.15 PHP/8.3.25 configured -- resuming normal operations
+[Mon Sep 29 13:45:26.670462 2025] [mpm_winnt:notice] [pid 22644:tid 444] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Mon Sep 29 13:45:26.670462 2025] [core:notice] [pid 22644:tid 444] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.65-250724-Win64-VS17\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.65-250724-Win64-VS17'
+[Mon Sep 29 13:45:26.678651 2025] [mpm_winnt:notice] [pid 22644:tid 444] AH00418: Parent: Created child process 35008
+[Mon Sep 29 13:45:27.322619 2025] [mpm_winnt:notice] [pid 35008:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 29 16:35:58.809286 2025] [core:error] [pid 35008:tid 1208] [client 127.0.0.1:65535] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Mon Sep 29 16:36:03.225093 2025] [core:error] [pid 35008:tid 1220] [client 127.0.0.1:57904] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Tue Sep 30 12:26:12.416236 2025] [core:warn] [pid 25360:tid 468] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.65-250724-Win64-VS17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 30 12:26:12.857113 2025] [mpm_winnt:notice] [pid 25360:tid 468] AH00455: Apache/2.4.65 (Win64) OpenSSL/3.0.15 PHP/8.3.25 configured -- resuming normal operations
+[Tue Sep 30 12:26:12.857113 2025] [mpm_winnt:notice] [pid 25360:tid 468] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Sep 30 12:26:12.857113 2025] [core:notice] [pid 25360:tid 468] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.65-250724-Win64-VS17\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.65-250724-Win64-VS17'
+[Tue Sep 30 12:26:12.867515 2025] [mpm_winnt:notice] [pid 25360:tid 468] AH00418: Parent: Created child process 27056
+[Tue Sep 30 12:26:13.499184 2025] [mpm_winnt:notice] [pid 27056:tid 484] AH00354: Child: Starting 64 worker threads.
+[Tue Sep 30 12:26:49.544191 2025] [core:error] [pid 27056:tid 1224] [client 127.0.0.1:61764] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.

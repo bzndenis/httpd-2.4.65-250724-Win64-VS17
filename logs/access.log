@@ -1,0 +1,164 @@
+127.0.0.1 - - [29/Sep/2025:13:45:28 +0700] "GET / HTTP/1.1" 500 6609
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /css/tiny-slider.css HTTP/1.1" 200 2121
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /fonts/icomoon/style.css HTTP/1.1" 200 79820
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1416
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /css/aos.css HTTP/1.1" 200 26053
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/person_1-min.jpg HTTP/1.1" 200 69976
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/person_2-min.jpg HTTP/1.1" 200 60112
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /css/style.css HTTP/1.1" 200 289164
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/hero_bg_3.jpg HTTP/1.1" 200 374988
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/person_3-min.jpg HTTP/1.1" 200 63641
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /js/navbar.js HTTP/1.1" 200 2359
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /js/counter.js HTTP/1.1" 200 2363
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 200 78129
+127.0.0.1 - - [29/Sep/2025:13:45:35 +0700] "GET / HTTP/1.1" 200 31638
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /js/aos.js HTTP/1.1" 200 14239
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /js/tiny-slider.js HTTP/1.1" 200 99867
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /js/custom.js HTTP/1.1" 200 2242
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/dots.png HTTP/1.1" 200 1130
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/hero_bg_1.jpg HTTP/1.1" 200 169851
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /images/hero_bg_2.jpg HTTP/1.1" 200 444234
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+127.0.0.1 - - [29/Sep/2025:13:45:52 +0700] "GET /favicon.png HTTP/1.1" 200 2469
+127.0.0.1 - - [29/Sep/2025:13:46:28 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:16:35:06 +0700] "GET / HTTP/1.1" 500 6609
+127.0.0.1 - - [29/Sep/2025:16:35:22 +0700] "GET / HTTP/1.1" 500 1147062
+127.0.0.1 - - [29/Sep/2025:16:35:35 +0700] "GET / HTTP/1.1" 500 1147062
+127.0.0.1 - - [29/Sep/2025:16:35:57 +0700] "GET / HTTP/1.1" 302 346
+127.0.0.1 - - [29/Sep/2025:16:35:58 +0700] "GET /login HTTP/1.1" 500 530
+127.0.0.1 - - [29/Sep/2025:16:36:03 +0700] "GET /login HTTP/1.1" 500 530
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/fontawesome-brRJ1wSf.css HTTP/1.1" 200 99499
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/tabler-icons-B05VNsfR.css HTTP/1.1" 200 214383
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/node-waves-CNx6tA5W.css HTTP/1.1" 200 3678
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/theme-default-jfwoCRio.css HTTP/1.1" 200 54369
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/jquery-B_wN6k63.js HTTP/1.1" 200 111
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/config-B7ee_8Qr.js HTTP/1.1" 200 850
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/flag-icons-BHaUlSio.css HTTP/1.1" 200 43607
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/demo-c0AcNs5O.css HTTP/1.1" 200 2967
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/custom-CpPWbW18.css HTTP/1.1" 200 1805
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/perfect-scrollbar-DZ12zwpW.css HTTP/1.1" 200 5374
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/core-BCRbZHL1.css HTTP/1.1" 200 766050
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/typeahead-CxK_EyAn.css HTTP/1.1" 200 2052
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/bootstrap-DaHCcdkX.js HTTP/1.1" 200 72
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/helpers-_-uALpVs.js HTTP/1.1" 200 17956
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/datatables-D1LXmlhm.css HTTP/1.1" 200 20446
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/responsive-8eLzK_S-.css HTTP/1.1" 200 5272
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/buttons-OOPfoz8C.css HTTP/1.1" 200 9248
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/sweetalert2-CQLBFAWj.css HTTP/1.1" 200 35885
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/select2-DEfCLxho.css HTTP/1.1" 200 29773
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/popper-hSzvMWJ1.js HTTP/1.1" 200 20064
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/tagify-B1xTCnZJ.css HTTP/1.1" 200 18213
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/bootstrap-select-i82kVlHT.css HTTP/1.1" 200 16003
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/node-waves-DRnFx4jp.js HTTP/1.1" 200 6668
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/form-validation-Bg--itJV.css HTTP/1.1" 200 1565
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/css/page-auth-CY-OWnGG.css HTTP/1.1" 200 3543
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/datatables-dkMk4-qQ.js HTTP/1.1" 200 172280
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/perfect-scrollbar-Ta7vzO7x.js HTTP/1.1" 200 19016
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/menu-DAPneovL.js HTTP/1.1" 200 17846
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/hammer-DLEdXtvS.js HTTP/1.1" 200 20535
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/_commonjs-dynamic-modules-TDtrdbi3.js HTTP/1.1" 200 239
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/typeahead-D_lLfGxG.js HTTP/1.1" 200 39343
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /assets/img/logo/kemenlh.png HTTP/1.1" 200 24367
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/moment-BmS6_tdq.js HTTP/1.1" 200 60948
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/sweetalert2-C4AXGeGH.js HTTP/1.1" 200 48524
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 200 834652
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/tagify-DL26L4Lc.js HTTP/1.1" 200 59278
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/select2-nch8uNxF.js HTTP/1.1" 200 78972
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/fonts/tabler-icons-IivY1uAl.woff? HTTP/1.1" 200 1211516
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/bootstrap-select-BzvPqqJ-.js HTTP/1.1" 200 57823
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/fonts/tabler-icons-BH2Bs-oT.ttf?v3.4.0 HTTP/1.1" 200 2554500
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/bootstrap5-B8xweYSi.js HTTP/1.1" 200 15090
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/popular-G1M4TupG.js HTTP/1.1" 200 82032
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/autosize-WyPVVt3G.js HTTP/1.1" 200 2670
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/auto-focus-gx3LVEfk.js HTTP/1.1" 200 5263
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/index-eQWVPmsa.js HTTP/1.1" 200 17287
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/xlsx.full.min-BsrqUa6-.js HTTP/1.1" 200 1332266
+127.0.0.1 - - [29/Sep/2025:16:36:16 +0700] "GET /build/js/vendor-eruNN_SE.js HTTP/1.1" 200 865729
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/main-BKlEA8ou.js HTTP/1.1" 200 11120
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/jquery.validate-Czgd9gKu.js HTTP/1.1" 200 25331
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/bs-stepper-DFZ_r3NV.js HTTP/1.1" 200 6696
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/custom-DutPjt-r.js HTTP/1.1" 200 3028
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/auth-CEFHqJlP.js HTTP/1.1" 200 1579
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/additional-methods-HzZFXWfh.js HTTP/1.1" 200 22073
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /build/js/datatables-bootstrap5-C5oZKrBt.js HTTP/1.1" 200 2268762
+127.0.0.1 - - [29/Sep/2025:16:36:17 +0700] "GET /assets/img/favicon/favicon.ico HTTP/1.1" 200 15406
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/helpers-_-uALpVs.js HTTP/1.1" 200 17956
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/config-B7ee_8Qr.js HTTP/1.1" 200 850
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /assets/img/avatars/user.png HTTP/1.1" 200 19456
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/jquery-B_wN6k63.js HTTP/1.1" 200 111
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/popper-hSzvMWJ1.js HTTP/1.1" 200 20064
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/datatables-dkMk4-qQ.js HTTP/1.1" 200 172280
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/bootstrap-DaHCcdkX.js HTTP/1.1" 200 72
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/node-waves-DRnFx4jp.js HTTP/1.1" 200 6668
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/perfect-scrollbar-Ta7vzO7x.js HTTP/1.1" 200 19016
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/vendor-eruNN_SE.js HTTP/1.1" 200 865729
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/css/apex-charts-C79-6Hm8.css HTTP/1.1" 200 19563
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/hammer-DLEdXtvS.js HTTP/1.1" 200 20535
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/typeahead-D_lLfGxG.js HTTP/1.1" 200 39343
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/menu-DAPneovL.js HTTP/1.1" 200 17846
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/css/cards-advance-Do6qcHMS.css HTTP/1.1" 200 1699
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/moment-BmS6_tdq.js HTTP/1.1" 200 60948
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/_commonjs-dynamic-modules-TDtrdbi3.js HTTP/1.1" 200 239
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/css/swiper-BPRIfoM5.css HTTP/1.1" 200 19672
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/sweetalert2-C4AXGeGH.js HTTP/1.1" 200 48524
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/tagify-DL26L4Lc.js HTTP/1.1" 200 59278
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/select2-nch8uNxF.js HTTP/1.1" 200 78972
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/datatables-bootstrap5-C5oZKrBt.js HTTP/1.1" 200 2268762
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/bootstrap5-B8xweYSi.js HTTP/1.1" 200 15090
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/bootstrap-select-BzvPqqJ-.js HTTP/1.1" 200 57823
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/popular-G1M4TupG.js HTTP/1.1" 200 82032
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/index-eQWVPmsa.js HTTP/1.1" 200 17287
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/autosize-WyPVVt3G.js HTTP/1.1" 200 2670
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/auto-focus-gx3LVEfk.js HTTP/1.1" 200 5263
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/additional-methods-HzZFXWfh.js HTTP/1.1" 200 22073
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/jquery.validate-Czgd9gKu.js HTTP/1.1" 200 25331
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/bs-stepper-DFZ_r3NV.js HTTP/1.1" 200 6696
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/xlsx.full.min-BsrqUa6-.js HTTP/1.1" 200 1332266
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/main-BKlEA8ou.js HTTP/1.1" 200 11120
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/custom-DutPjt-r.js HTTP/1.1" 200 3028
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/apexcharts-C87dzCxk.js HTTP/1.1" 200 103
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 200 834652
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/js/swiper-DsDvhY6v.js HTTP/1.1" 200 149365
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/fonts/tabler-icons-IivY1uAl.woff? HTTP/1.1" 200 1211516
+127.0.0.1 - - [29/Sep/2025:16:36:26 +0700] "GET /build/fonts/tabler-icons-BH2Bs-oT.ttf?v3.4.0 HTTP/1.1" 200 2554500
+127.0.0.1 - - [29/Sep/2025:16:37:00 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 200 834652
+127.0.0.1 - - [29/Sep/2025:16:37:00 +0700] "GET /build/fonts/tabler-icons-IivY1uAl.woff? HTTP/1.1" 200 1211516
+127.0.0.1 - - [29/Sep/2025:16:37:00 +0700] "GET /build/fonts/tabler-icons-BH2Bs-oT.ttf?v3.4.0 HTTP/1.1" 200 2554500
+127.0.0.1 - - [29/Sep/2025:16:37:03 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:16:37:51 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 200 834652
+127.0.0.1 - - [29/Sep/2025:16:37:51 +0700] "GET /build/fonts/tabler-icons-IivY1uAl.woff? HTTP/1.1" 200 1211516
+127.0.0.1 - - [29/Sep/2025:16:37:51 +0700] "GET /build/fonts/tabler-icons-BH2Bs-oT.ttf?v3.4.0 HTTP/1.1" 200 2554500
+127.0.0.1 - - [29/Sep/2025:16:38:17 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 200 834652
+127.0.0.1 - - [29/Sep/2025:16:38:17 +0700] "GET /build/fonts/tabler-icons-IivY1uAl.woff? HTTP/1.1" 200 1211516
+127.0.0.1 - - [29/Sep/2025:16:38:17 +0700] "GET /build/fonts/tabler-icons-BH2Bs-oT.ttf?v3.4.0 HTTP/1.1" 200 2554500
+127.0.0.1 - - [29/Sep/2025:16:56:37 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 200 834652
+127.0.0.1 - - [29/Sep/2025:17:00:31 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:13:03 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:18:17 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:23:47 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:24:33 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 304 -
+127.0.0.1 - - [29/Sep/2025:17:25:29 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:31:05 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:32:49 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:34:38 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:56:56 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 304 -
+127.0.0.1 - - [29/Sep/2025:17:57:53 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:17:59:26 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:01:30 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:04:24 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:05:45 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:18:01 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:19:53 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:22:03 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:23:16 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:18:24:38 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:19:04:15 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 304 -
+127.0.0.1 - - [29/Sep/2025:19:05:00 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:19:07:13 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:19:10:21 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:21:39:44 +0700] "GET /build/fonts/tabler-icons-DUSdpxAf.woff2?v3.4.0 HTTP/1.1" 304 -
+127.0.0.1 - - [29/Sep/2025:21:40:40 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:21:57:16 +0700] "-" 408 -
+127.0.0.1 - - [29/Sep/2025:23:07:39 +0700] "-" 408 -
+127.0.0.1 - - [30/Sep/2025:12:26:49 +0700] "GET /login HTTP/1.1" 500 530
+127.0.0.1 - - [30/Sep/2025:12:26:25 +0700] "GET / HTTP/1.1" 302 346
